@@ -127,6 +127,7 @@ img {
   /* BLOCCO PERCHE */
   #why {
     text-align: center;
+    background-color: rgba(242, 242, 205, 1);
   }
 
   #why .row>.first,
